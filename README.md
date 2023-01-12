@@ -2,5 +2,5 @@
 
 <div style="display inline">
    <img width="55%" height="250px" src="https://github-readme-stats.vercel.app/api?username=sabelleBatista&show_icons=true&count_private=true&hide_border=true&title_color=992B88&icon_color=78226B&text_color=F2E3D5&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="40%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleBatista&theme=782480&show_icons=true&count_private=true&hide_border=true&title_color=992B88&icon_color=78226B&text_color=F2E3D5&bg_color=0d1117" />
+  <img width="40%" height="260px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleBatista&theme=782480&show_icons=true&count_private=true&hide_border=true&title_color=992B88&icon_color=78226B&text_color=F2E3D5&bg_color=0d1117" />
 <div>

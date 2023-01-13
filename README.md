@@ -1,4 +1,4 @@
-[![Blog](https://img.shields.io/badge/LinkedIn-45133D?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/isabelle-batista-a14ab822b) [![Blog](https://img.shields.io/badge/Telegram-5C1A52?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Isah_sales3) [![Blog](https://img.shields.io/badge/Instagram-701F64?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isah_sales3)
+[![Blog](https://img.shields.io/badge/LinkedIn-992855?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/isabelle-batista-a14ab822b) [![Blog](https://img.shields.io/badge/Telegram-802147?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Isah_sales3) [![Blog](https://img.shields.io/badge/Instagram-781F43?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isah_sales3)
 
  <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelleBatista&show_icons=true&theme=tokyonight) -->
    ![Top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IsabelleBatista&show_icons=true&theme=radical)
